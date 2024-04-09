@@ -110,4 +110,11 @@
         margin-top: 170px;
       }
     }
+    @media screen and (min-width: 1440px) {
+      .inside-container{
+        margin: 0;
+        margin-left: 600px;
+        margin-top: 110px;
+      }
+    }
     
